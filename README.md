@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Robson%20Lourenço&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=IT%20Manager%20%7C%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55&descColor=a0a0a0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Robson%20Louren%C3%A7o&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=IT%20Manager%20%7C%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=55&descColor=a0a0a0" />
 
 </div>
 
@@ -17,21 +17,21 @@
 ```python
 class RobsonLourenco:
     def __init__(self):
-        self.nome       = "Robson Lourenço"
-        self.usuario    = "robsonldsilva"
-        self.cargo      = "Gestor de TI"
+        self.nome        = "Robson Lourenço"
+        self.usuario     = "robsonldsilva"
+        self.cargo       = "Gestor de TI"
         self.localizacao = "Brasil 🇧🇷"
-        self.foco       = ["Gestão de Infraestrutura", "Desenvolvimento de Sistemas", 
-                           "Automação de Processos", "Gestão de Dados"]
-    
+        self.foco        = ["Gestão de Infraestrutura", "Desenvolvimento de Sistemas",
+                            "Automação de Processos", "Gestão de Dados"]
+
     def stack(self):
         return {
-            "backend":   ["PHP", "Python"],
-            "database":  ["PostgreSQL", "MySQL"],
-            "os":        ["Linux", "Windows Server"],
-            "tools":     ["Git", "Shell Script", "Docker"]
+            "backend":  ["PHP", "Python"],
+            "database": ["PostgreSQL", "MySQL"],
+            "os":       ["Linux", "Windows Server"],
+            "tools":    ["Git", "Shell Script", "Docker"]
         }
-    
+
     def missao(self):
         return "Transformar tecnologia em solução para o negócio 💡"
 ```
@@ -51,7 +51,7 @@ class RobsonLourenco:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🖥️ Sistemas Operacionais & Infraestrutura
+### 🖥️ Sistemas & Infraestrutura
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -70,15 +70,15 @@ class RobsonLourenco:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=robsonldsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=robsonldsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonldsilva&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonldsilva&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=robsonldsilva&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=robsonldsilva&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
 
 </div>
 
@@ -88,7 +88,7 @@ class RobsonLourenco:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=robsonldsilva&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=robsonldsilva&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" />
 
 </div>
 
@@ -98,7 +98,7 @@ class RobsonLourenco:
 
 <div align="center">
 
-[![Robson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=robsonldsilva&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=robsonldsilva&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff" />
 
 </div>
 
@@ -110,7 +110,7 @@ class RobsonLourenco:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robsonldsilva)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robsonldsilva)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robson.ldsilva@gmail.com)
 
 </div>
 
@@ -120,6 +120,6 @@ class RobsonLourenco:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=robsonldsilva&color=00d4ff&style=for-the-badge&label=VISITAS+AO+PERFIL)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn" />
 
 </div>
