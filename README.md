@@ -70,33 +70,25 @@ class RobsonLourenco:
 
 <div align="center">
 
-<!-- Stats via github-stats.pretto.it — alternativa estável ao vercel sobrecarregado -->
-<img height="180em" src="https://github-stats.pretto.it/api?username=robsonldsilva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats-1x38.vercel.app/api?username=robsonldsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
 
-<img height="180em" src="https://github-stats.pretto.it/api/top-langs/?username=robsonldsilva&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats-1x38.vercel.app/api/top-langs/?username=robsonldsilva&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" />
 
 </div>
 
-<br/>
-
 <div align="center">
 
-<!-- Streak via git.io/streak-stats — mais estável -->
 <img src="https://streak-stats.demolab.com/?user=robsonldsilva&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=c9d1d9" />
 
 </div>
 
 ---
 
-## 🏆 Conquistas
+## 🏆 Troféus
 
 <div align="center">
 
-<!--  Badges nativos do GitHub — sem dependência externa  -->
-
-![Followers](https://img.shields.io/github/followers/robsonldsilva?style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github&label=Seguidores)
-![Stars](https://img.shields.io/github/stars/robsonldsilva?style=for-the-badge&color=ffd700&labelColor=0d1117&logo=github&label=Stars+Recebidas)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/robsonldsilva&query=$.public_repos&style=for-the-badge&color=7957d5&labelColor=0d1117&logo=github&label=Repositórios)
+<img src="https://github-profile-trophy.vercel.app/?username=robsonldsilva&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" />
 
 </div>
 
@@ -106,7 +98,7 @@ class RobsonLourenco:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=robsonldsilva&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=robsonldsilva&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true" />
 
 </div>
 
@@ -118,7 +110,7 @@ class RobsonLourenco:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robsonldsilva)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robsonldsilva)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robson.ldsilva@gmail.com)
 
 </div>
 
