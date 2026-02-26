@@ -90,7 +90,7 @@ class RobsonLourenco:
 <div align="center">
 
 ![GitHub PRO](https://img.shields.io/badge/GitHub-PRO-6e40c9?style=for-the-badge&logo=github&logoColor=white)
-![Followers](https://img.shields.io/github/followers/robsonldsilva?style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github&label=Seguidores)
+![Followers](https://img.shields.io/badge/Seguidores-5-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 ![Stars](https://img.shields.io/github/stars/robsonldsilva?style=for-the-badge&color=ffd700&labelColor=0d1117&logo=github&label=Stars)
 ![Repos](https://img.shields.io/badge/Repositórios-9-7957d5?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 
@@ -114,7 +114,7 @@ class RobsonLourenco:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robsonldsilva)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robsonldsilva)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robson.ldsilva@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 </div>
 
