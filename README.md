@@ -57,6 +57,12 @@ class RobsonLourenco:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+### 🔒 Segurança & Redes
+![Firewall](https://img.shields.io/badge/Firewall-E34F26?style=for-the-badge&logo=cisco&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortigate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![Endian](https://img.shields.io/badge/Endian-0078D4?style=for-the-badge&logo=linux&logoColor=white)
+
 ### 🔧 Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
